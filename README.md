@@ -6,6 +6,6 @@
 
 <p>🤝 I’m looking to collaborate on new projects, apps and/or websites.</p>
 
-<p>📫 Reach me through Github, [LinkedIn](https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/) email and phone (all can be provided) - make a pull request on a repo to get in touch.</p>
+<p>📫 Reach me through Github, <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">Linked in</a>, email and phone (all can be provided) - make a pull request on a repo to get in touch.</p>
 
 <p>📝 I also have a <a href="https://medium.com/@farzanimanzadeh">blog</a> if you want to know more about my coding journey.
