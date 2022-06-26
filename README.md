@@ -1,4 +1,4 @@
-<p>👋 Hi, I’m Farzan.</p>
+## 👋 Hi, I’m Farzan.
 
 <p>🧠 I’m interested in football, gaming (board and video), nature, technology, food and music.</p>
 
