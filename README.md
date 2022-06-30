@@ -4,7 +4,11 @@
 
 <p>📚 I’m currently learning how to code with <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a>, <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a> and <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=html&sort=">HTML</a>through Makers Academy coding bootcamp (April '22 intake) but love learning new languages!</p>
 
+<p>🧑🏻‍💻 Eagerly waiting to land my first software developer role.</p>
+
 <p>🤝 I’m looking to collaborate on new projects, apps and/or websites.</p>
+
+<p>♻️</p>
 
 <p>📫 Reach me through Github, <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">Linked in</a>, email and phone (all can be provided) - alternatively, make a pull request on one of my repositories to get in touch.</p>
 
