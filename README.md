@@ -8,7 +8,7 @@
 
 <p>🤝 I’m looking to collaborate on new projects, apps and/or websites.</p>
 
-<p>♻️</p>
+<p>♻️ I constantly use test-driven development (TDD) to write programs</p>
 
 <p>📫 Reach me through Github, <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">Linked in</a>, email and phone (all can be provided) - alternatively, make a pull request on one of my repositories to get in touch.</p>
 
