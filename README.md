@@ -2,19 +2,21 @@
 
 <p>📊 My CV can be found <a href="https://github.com/Farzan-I/Farzan-CV/blob/main/README.md">here</a>.
 
-<p>📚 Learning to code using <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a>, <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a> and <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=html&sort=">HTML</a> through Makers Academy (April '22) but love learning new languages!</p>
+<p>📚 Learning to code using <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a>, <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a> and <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=html&sort=">HTML</a> through Makers Academy (April '22)</p>
+
+<p>💻 Love learning new languages, beginning to dive into Python</p>
+
+<p>♻️ I constantly use test-driven development to write code.</p>
 
 <p>🧑🏻‍💻 Eagerly waiting to land my first software developer role.</p>
 
 <p>🤝 I’m looking to collaborate on new projects, apps and/or websites.</p>
 
-<p>♻️ I constantly use test-driven development (TDD) to write code.</p>
-
-<p>📫 Reach me through Github, <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">Linked in</a>, email and phone (all can be provided). <br> 👆 Alternatively, make a pull request on one of my repositories to get in touch.</p>
+<p>📫 Reach me through <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">Linked in</a>, email and phone (all can be provided). <br> 👆 Alternatively, make a pull request on one of my repositories to get in touch.</p>
 
 <p>📝 I also have a <a href="https://medium.com/@farzanimanzadeh">blog</a> if you want to know more about my coding journey.
 
-<p>🧠 I’m interested in football, gaming (board and video), nature, technology, food and music.</p>
+<p>🧠 I’m interested in football, gaming (board and video), nature, technology, good food and music.</p>
 
 #### Languages and Tools:
 
