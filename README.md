@@ -40,6 +40,6 @@ style="padding-right:10px;">
 
 
 
-<img align="left" alt="Jest" width="26px" src="![pngwing com](https://user-images.githubusercontent.com/58693804/177970602-25211b0a-ea46-4d8e-bfca-95158fb84c82.png)" style="padding-right:10px;">
+<img align="left" alt="Jest" width="26px" src="https://w7.pngwing.com/pngs/152/247/png-transparent-jest-hd-logo.png" style="padding-right:10px;">
 
 
