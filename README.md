@@ -27,6 +27,7 @@
 <img align="left" alt="Rspec" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" style="padding-right:10px;">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;">
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;">
+<img align="left" alt="Jest" width="26px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" style="padding-right:10px;">
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;">
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;">
 <img align="left" alt="Sinatra" width="26px" src="https://hackr.io/tutorials/learn-sinatra/logo/logo-sinatra?ver=1557508011" style="padding-right:10px;">
@@ -37,9 +38,3 @@
 style="padding-right:10px;">
 <img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" style="padding-right:10px;">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-light.svg" style="padding-right:10px;">
-
-
-
-<img align="left" alt="Jest" width="26px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" style="padding-right:10px;">
-
-
