@@ -29,6 +29,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;">
 <img align="left" alt="Jest" width="26px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" style="padding-right:10px;">
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;">
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" style="padding-right:10px;">
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;">
 <img align="left" alt="Sinatra" width="26px" src="https://hackr.io/tutorials/learn-sinatra/logo/logo-sinatra?ver=1557508011" style="padding-right:10px;">
 <img align="left" alt="npm" width="26px" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" style="padding-right:10px;">
