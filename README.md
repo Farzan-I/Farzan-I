@@ -38,3 +38,8 @@ style="padding-right:10px;">
 <img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" style="padding-right:10px;">
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-light.svg" style="padding-right:10px;">
 
+
+
+<img align="left" alt="Jest" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/img/terminal-light.svg" style="padding-right:10px;">
+
+![pngwing com](https://user-images.githubusercontent.com/58693804/177970602-25211b0a-ea46-4d8e-bfca-95158fb84c82.png)
