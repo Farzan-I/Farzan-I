@@ -40,6 +40,6 @@ style="padding-right:10px;">
 
 
 
-<img align="left" alt="Jest" width="26px" src="https://w7.pngwing.com/pngs/152/247/png-transparent-jest-hd-logo.png" style="padding-right:10px;">
+<img align="left" alt="Jest" width="26px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" style="padding-right:10px;">
 
 
