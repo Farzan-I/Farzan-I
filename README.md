@@ -27,7 +27,7 @@
 <img align="left" alt="Rspec" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" style="padding-right:10px;">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;">
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;">
-<img align="left" alt="Jest" width="26px" src="https://symbols.getvecta.com/stencil_85/20_jest-icon.aff64ab210.png" style="padding-right:10px;">
+<img align="left" alt="Jest" width="26px" src="https://pbs.twimg.com/profile_images/821713465245102080/mMtKIMax_400x400.jpg" style="padding-right:10px;">
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;">
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" style="padding-right:10px;">
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;">
