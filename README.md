@@ -2,9 +2,9 @@
 
 <p>📊 My CV can be found <a href="https://github.com/Farzan-I/Farzan-CV/blob/main/README.md">here</a>.
 
-<p>📚 Learning to code using <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a>, <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a> and <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=html&sort=">HTML</a> through Makers Academy (April '22)</p>
+<p>📚 Learnt to code using <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a>, <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a> and <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=html&sort=">HTML</a> through Makers Academy (April '22)</p>
 
-<p>💻 Love learning new languages, beginning to dive into Python</p>
+<p>💻 Love learning new languages and frameworks</p>
 
 <p>♻️ I constantly use test-driven development to write code.</p>
 
