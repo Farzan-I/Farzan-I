@@ -12,7 +12,7 @@
 
 <p>🤝 I’m looking to collaborate on new projects, apps and/or websites.</p>
 
-<p>📫 Reach me through <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">LinkedIn</a>, email and phone (all can be provided). <br> 👆 Alternatively, make a pull request on one of my repositories to get in touch.</p>
+<p>📫 Reach me through <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">LinkedIn</a>. <br> 👆 Alternatively, make a pull request on one of my repositories to get in touch.</p>
 
 <p>📝 I also have a <a href="https://medium.com/@farzanimanzadeh">blog</a> if you want to know more about my coding journey.
 
