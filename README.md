@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Farzan.
 
-<p>📊 My CV can be found <a href="https://www.canva.com/design/DAFfy34bkjs/n7DIeiXrAUgvbmHYMGm4Yg/view?utm_content=DAFfy34bkjs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">here</a> and <a href="https://github.com/Farzan-I/Farzan-CV/blob/main/README.md">here</a>.
+<p>📊 My CV can be found <a href="https://www.canva.com/design/DAFfy34bkjs/n7DIeiXrAUgvbmHYMGm4Yg/view?utm_content=DAFfy34bkjs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">here</a> and <a href="https://github.com/Farzan-I/Farzan-CV/blob/main/README.md">here</a>. 
 
 <p>📚 Learnt to code using <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a>, <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a> and <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=html&sort=">HTML</a> through Makers Academy (April '22).</p>
 
