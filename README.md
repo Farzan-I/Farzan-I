@@ -4,7 +4,7 @@
 
 <p>📚 Learnt to code using <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a>, <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a> and <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=html&sort=">HTML</a> through Makers Academy (April '22).</p>
 
-<p>💻 Love learning new languages, frameworks and stacks. Currently using MERN.</p>
+<p>💻 Love learning new languages, frameworks and stacks. Currently using Vanilla JS, ReactJS and Vue.js.</p>
 
 <p>♻️ I constantly use test-driven development to write code.</p>
 
@@ -14,7 +14,7 @@
 
 <p>📫 Reach me through <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">LinkedIn</a>.</p>
 
-<p>🧠 I’m interested in football, go karting, nature, technology, good food and music.</p>
+<p>🧠 Interested in football (C'mon Man United!), karting, technology, diverse cuisines and music.</p>
 
 #### Languages and Tools:
 
