@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Farzan.
 
-<p>📫 Reach me through <a href="https://www.linkedin.com/in/farzan-imanzadeh-079a95a3/">LinkedIn</a> and my <a href="https://farzanimanzadeh.netlify.app/">website</a>.</p>
+<p>📫 Reach me through <a href="https://www.linkedin.com/in/farzanimanzadeh/">LinkedIn</a> and my <a href="https://farzanimanzadeh.netlify.app/">website</a>.</p>
 
 <p>📚 Began my coding journey using languages such as <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=ruby&sort=">Ruby</a>, <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=javascript&sort=">JavaScript</a> and <a href="https://github.com/Farzan-I?tab=repositories&q=&type=&language=html&sort=">HTML</a>. </p>
   
